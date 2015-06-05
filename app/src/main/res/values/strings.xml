@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Base de Datos</string>
+    <string name="action_settings">Settings</string>
+    <string name="id_accesorio">ID del Accesorio:</string>
+    <string name="nombre">Nombre:</string>
+    <string name="color">Color:</string>
+    <string name="tipo">Tipo:</string>
+    <string name="alta">Alta</string>
+    <string name="baja">Baja</string>
+    <string name="consultar">Consultar</string>
+    <string name="modificar">Modificar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="ver">Ver</string>
+    <string name="title_activity_activity_accesorios">activity_accesorios</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_accesorios">accesorios</string>
+
+</resources>
+
